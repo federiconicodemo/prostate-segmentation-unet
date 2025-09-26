@@ -45,7 +45,7 @@ This repository contains a complete pipeline for training and evaluating a U-Net
 
 1.  **Clone the Repository**
     ```bash
-    git clone https://github.com/YourUsername/prostate-segmentation-unet.git
+    git clone https://github.com/federiconicodemo/prostate-segmentation-unet.git
     cd prostate-segmentation-unet
     ```
 
